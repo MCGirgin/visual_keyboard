@@ -1,0 +1,14 @@
+C:\Users\nmgir\source\repos\visual_keyboard\visual_keyboard\bin\Debug\visual_keyboard.exe.config
+C:\Users\nmgir\source\repos\visual_keyboard\visual_keyboard\bin\Debug\visual_keyboard.exe
+C:\Users\nmgir\source\repos\visual_keyboard\visual_keyboard\bin\Debug\visual_keyboard.pdb
+C:\Users\nmgir\source\repos\visual_keyboard\visual_keyboard\obj\Debug\visual_keyboard.csproj.AssemblyReference.cache
+C:\Users\nmgir\source\repos\visual_keyboard\visual_keyboard\obj\Debug\visual_keyboard.Form1.resources
+C:\Users\nmgir\source\repos\visual_keyboard\visual_keyboard\obj\Debug\visual_keyboard.Properties.Resources.resources
+C:\Users\nmgir\source\repos\visual_keyboard\visual_keyboard\obj\Debug\visual_keyboard.csproj.GenerateResource.cache
+C:\Users\nmgir\source\repos\visual_keyboard\visual_keyboard\obj\Debug\visual_keyboard.csproj.CoreCompileInputs.cache
+C:\Users\nmgir\source\repos\visual_keyboard\visual_keyboard\obj\Debug\visual_keyboard.exe
+C:\Users\nmgir\source\repos\visual_keyboard\visual_keyboard\obj\Debug\visual_keyboard.pdb
+C:\Users\nmgir\source\repos\visual_keyboard\visual_keyboard\bin\Debug\visual_keyboard.exe.manifest
+C:\Users\nmgir\source\repos\visual_keyboard\visual_keyboard\bin\Debug\visual_keyboard.application
+C:\Users\nmgir\source\repos\visual_keyboard\visual_keyboard\obj\Debug\visual_keyboard.exe.manifest
+C:\Users\nmgir\source\repos\visual_keyboard\visual_keyboard\obj\Debug\visual_keyboard.application
